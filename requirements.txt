@@ -1,10 +1,2 @@
-pyrogram
-tgcrypto
-yt-dlp
-ffmpeg
-requests
-tgcrypto
-google-api-python-client
-google-auth
-google-auth-httplib2
-httplib2
+python-telegram-bot==20.3
+PyGithub==1.59.0
